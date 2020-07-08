@@ -5,6 +5,12 @@ Free and Fair Commonsense Algorithms for Society is a platform for fair, open-so
 
 This repository hosts the platform’s machine learning algorithm code.
 
+
+---
+### Development
+
+TK
+
 ---
 ### Mission
 
@@ -12,7 +18,7 @@ To develop and promote fair, equitable, auditable, machine learning solutions th
 
 ### About
 
-Free and Fair Commonsense Algorithms for Society (FAFCSAFS) was founded in 2019, during the era of big data and continuous technical advancement in machine learning. However, countless algorithmic solutions developed today are second-rate, costly, proprietary, and fail in providing improvements over non-algorithmic solutions, and in many cases, actually making the situation worse than before. This is why FAFCSAFS was established: to harness the power of the technological advancements of the era while not causing a detriment to society. FAFCSAFS provides individuals and organizations access to high-quality algorithmic solutions for various situations, focusing on situations where human biases can severely jeopardize any outcome and where fairness is paramount.
+Free and Fair Commonsense Algorithms for Society (FAFCSAFS) was founded in 2020, during the era of big data and continuous technical advancement in machine learning. However, countless algorithmic solutions developed today are second-rate, costly, proprietary, and fail in providing improvements over non-algorithmic solutions, and in many cases, actually making the situation worse than before. This is why FAFCSAFS was established: to harness the power of the technological advancements of the era while not causing a detriment to society. FAFCSAFS provides individuals and organizations access to high-quality algorithmic solutions for various situations, focusing on situations where human biases can severely jeopardize any outcome and where fairness is paramount.
 
 
 
